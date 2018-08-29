@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
@@ -6,7 +11,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/jtanx/lddx/lddx"
+	"github.com/sniperkit/snk.fork.jtanx-lddx/lddx"
 )
 
 func main() {

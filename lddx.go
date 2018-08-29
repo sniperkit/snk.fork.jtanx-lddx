@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
@@ -8,7 +13,8 @@ import (
 	"runtime/pprof"
 
 	"github.com/jessevdk/go-flags"
-	. "github.com/jtanx/lddx/lddx"
+
+	. "github.com/sniperkit/snk.fork.jtanx-lddx/lddx"
 )
 
 type options struct {
